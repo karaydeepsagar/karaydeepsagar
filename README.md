@@ -1,18 +1,107 @@
-# 💫 About Me:
-👋 Hello! I’m Deep Sagar Karay.<br><br> I’m a DevOps Engineer with 6 years of experience. I work best as a lone wolf 🐺 , building scalable and automated systems from the ground up.<br><br> Currently, I am focused on learning and building new 🤖 AI workflows and Autonomous Agents ✨.<br><br> I want to collaborate with startups and tech enthusiasts to turn innovative ideas into reality 🚀.<br><br> Let’s connect and build something great together!<br><br>Contact me: https://kds-personal-portfolio.vercel.app/
+#               Deep Sagar Karay 
+# ♾️ DevOps Engineer | ☁️ Cloud Automation Architect
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urs_truly_deepsagar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karaydeepsagar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karaydeepsagar@gmail.com) 
-
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karaydeepsagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=karaydeepsagar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karaydeepsagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> *Building scalable, automated systems and intelligent workflows — turning complex infrastructure challenges into elegant solutions.*
 
 ---
-[![](https://komarev.com/ghpvc/?username=karaydeepsagar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+I'm a **DevOps Engineer with 6+ years of hands-on experience** in designing, deploying, and optimizing cloud-native infrastructure at scale. I specialize in **infrastructure automation, CI/CD pipelines, and cloud architecture** across AWS, Azure, and Google Cloud.
+
+Currently, I'm at the intersection of **DevOps and AI** — architecting autonomous agents and intelligent workflows that reduce operational overhead and enable teams to scale faster.
+
+**I thrive as an independent builder** 🐺, taking ownership of systems from conception to production, while also being a strong collaborator on ambitious projects.
+
+---
+
+## 💡 What I Do
+
+### Infrastructure & DevOps
+- **Cloud Architecture**: Design and deploy highly available, scalable systems on AWS, Azure, and GCP
+- **CI/CD Orchestration**: Jenkins, GitHub Actions, and Bitbucket Pipelines with automated testing and deployment
+- **Infrastructure as Code**: Terraform, Ansible, Packer — reproducible infrastructure at scale
+- **Containerization & Orchestration**: Docker, Kubernetes, container security, and deployment strategies
+- **Monitoring & Observability**: Prometheus, Grafana, Datadog, ELK Stack — build comprehensive observability systems
+
+### Platform & Database Management
+- **Data Infrastructure**: PostgreSQL, MySQL, DynamoDB, Elasticsearch
+- **Web Servers & Load Balancing**: Nginx, Apache Tomcat, high-availability configurations
+- **Infrastructure Tooling**: Maven, Vagrant, SonarQube for code quality and build optimization
+
+### Emerging Focus
+- **Autonomous Agents & AI Workflows**: Learning and building intelligent systems that automate complex operational tasks
+- **Infrastructure Automation**: Taking DevOps beyond traditional approaches with AI-driven optimization
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud Platforms** • AWS • Azure • Google Cloud • Vercel
+
+**Container & Orchestration** • Docker • Kubernetes • Helm
+
+**Infrastructure as Code** • Terraform • Ansible • Packer • Vagrant
+
+**CI/CD & Automation** • GitHub Actions • Jenkins • Bitbucket Pipelines
+
+**Monitoring & Logging** • Prometheus • Grafana • Datadog • ELK Stack • Elasticsearch
+
+**Databases** • PostgreSQL • MySQL • DynamoDB • Firebase
+
+**Web & App Servers** • Nginx • Apache Tomcat • Vercel
+
+**Build & Quality Tools** • Maven • SonarQube • Jira • Trello
+
+**Languages** • Bash • PowerShell • Markdown
+
+---
+
+## 💼 What I'm Looking For
+
+I'm interested in collaborating with:
+- **Startups** building infrastructure-heavy applications (SaaS, fintech, data platforms)
+- **Tech enthusiasts** working on innovative automation and AI projects
+- **Teams** scaling their platform infrastructure and DevOps practices
+- **Organizations** modernizing legacy systems with cloud-native approaches
+
+---
+
+## 🌟 Why Work With Me?
+
+✅ **6+ years of production DevOps experience** — I've built and maintained systems serving millions of requests
+✅ **End-to-end ownership** — From architecture to production support, I take full responsibility for systems
+✅ **Cloud expertise** — Deep hands-on experience across all major cloud providers
+✅ **Automation first mentality** — Always looking for ways to reduce manual toil and increase reliability
+✅ **Learning & innovation** — Currently exploring AI/ML applications in DevOps and infrastructure automation
+✅ **Collaborative builder** — While I work independently, I thrive in teams tackling complex challenges
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=karaydeepsagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/karaydeepsagar)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=karaydeepsagar&theme=dark&hide_border=false)](https://github.com/karaydeepsagar)
+
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=karaydeepsagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/karaydeepsagar)
+
+---
+
+## 🤝 Let's Connect & Build
+
+I'm always open to exciting opportunities and collaborations.
+
+**Portfolio:** [kds-personal-portfolio.vercel.app](https://kds-personal-portfolio.vercel.app/)
+
+**Social Links:**
+- 💼 **LinkedIn** → [linkedin.com/in/karaydeepsagar](https://www.linkedin.com/in/karaydeepsagar/)
+- 📸 **Instagram** → [@urs_truly_deepsagar](https://instagram.com/urs_truly_deepsagar)
+- ✉️ **Email** → [karaydeepsagar@gmail.com](mailto:karaydeepsagar@gmail.com)
+- 💻 **GitHub** → [github.com/karaydeepsagar](https://github.com/karaydeepsagar)
+
+---
+
+**Let's build something great together! 🚀**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=karaydeepsagar&icon=0&color=0)](https://visitcount.itsvg.in)
